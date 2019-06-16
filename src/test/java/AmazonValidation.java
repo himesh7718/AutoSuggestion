@@ -11,7 +11,6 @@ public class AmazonValidation extends ObjectRepo {
 
     @BeforeMethod
     void launchDriver() throws Exception{
-        System.out.println(System.getProperty("user.dir"));
       Config.launchBrowser();
     }
 

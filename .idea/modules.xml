@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Trunk-Club-Project.iml" filepath="$PROJECT_DIR$/.idea/modules/Trunk-Club-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Trunk-Club-Project_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Trunk-Club-Project_main.iml" group="Trunk-Club-Project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Trunk-Club-Project_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Trunk-Club-Project_test.iml" group="Trunk-Club-Project" />
+    </modules>
+  </component>
+</project>
